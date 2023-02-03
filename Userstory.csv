@@ -1,0 +1,23 @@
+Component,Epic,Issue Type,Summary,Story Points,Assigned to ,Priority
+Register,Register,Story,"As a user, should be able to provide username and should be mandatory",4,akc@gmail.com,MEDIUM
+Register,Register,Story,"As a user, should be able to provide password and should be mandatory",4,happy@gmail.com,HIGH
+Register,Register,Story,"As a user, should be able to provide confirm password and should be mandatory",4,pink@gmail.com,HIGH
+Register,Register,Story,Password and Confirm Password field values should be same ,2,aswathykrishna91@gmail.com,HIGH
+Register,Register,Story,"As a user, should be allowed to provide first name",2,pink@gmail.com,LOW
+Register,Register,Story,"As a user, should be allowed to provide last name",,akc@gmail.com,LOW
+Register,Register,Story,"As a user, should be allowed to provide phone number and validate the length",4,aswathykrishna91@gmail.com,MEDIUM
+Register,Register,Story,"As a user, should be able to provide Country populated with list",4,pink@gmail.com,LOW
+Register,Register,Story,"As a user, should be able to provide City",2,akc@gmail.com,LOW
+Register,Register,Story,"As a user, should be able to provide  Address",2,pink@gmail.com,LOW
+Register,Register,Story,"As a user, should be able to provide Pincode",2,aswathykrishna91@gmail.com,LOW
+Register,Register,Story,"As a user, should be able to check for notification",2,happy@gmail.com,LOW
+Register,Register,Story,"As a user, should be able to check for policy",2,ssd@gmail.com,LOW
+Register,Register,Story,"As a user,  should be able to click Register and move to welcome page",4,aswathykrishna91@gmail.com,MEDIUM
+Login,Login,Story,Should be able to provide username,2,happy@gmail.com,MEDIUM
+Login,Login,Story,Should be able to provide password,2,ssd@gmail.com,MEDIUM
+Login,Login,Story,Should be able to click Login and move to welcome page,4,aswathykrishna91@gmail.com,MEDIUM
+Login,Login,Story,Should be able to provide facebook login as well,2,ssd@gmail.com,LOW
+Product,Search Product,Story,Click desired Product Image,4,happy@gmail.com,HIGH
+Product,Search Product,Story,Select Product Model,2,akc@gmail.com,HIGH
+Product,Search Product,Story,"Add prefernces, colour and quantity",6,ssd@gmail.com,HIGH
+Product,Search Product,Story,Add to cart,4,happy@gmail.com,HIGH
